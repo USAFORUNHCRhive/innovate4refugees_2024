@@ -3,7 +3,7 @@ body {
     font-weight: 400;
     text-align: left;
 }
-p {
+p, ul, li {
     font-family: "proxima-nova", sans-serif;
     font-weight: 300;
     font-style: normal;

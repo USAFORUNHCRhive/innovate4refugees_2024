@@ -4,7 +4,7 @@
     /* mobile and non-mobile */
 @media (max-width: 768px) {
     /* type/layout/general */
-    p {
+    p, ul, li  {
         font-size: 16px;
     }    
     p.sub {
@@ -18,88 +18,13 @@
     h3 {
         font-size: 20px;
     }
+    
     /* intro and nav */
     .subsection_nav a{  
         border-radius: 28px;
         padding: 7px;
         font-size: 12px;
     }
-    /* scroll story */
-    .scroll_container {
-        flex-direction: column;
-    }
-    .scroll__graphic {
-        width: 100%;
-    }
-    .scroll__text {
-        position: static;
-        width: 100%;
-        /* background-color:rgba(173, 226, 47, 0.2); */
-        background-color: white;
-    }
-    .step {
-        border-bottom: 2px blue dotted;
-        border-top: 2px blue dotted;
-        display: flex;
-        justify-content: flex-start;
-        height: 250px;
-    }
-    .step .step_text {
-        width: 90%;
-        padding: 10px;
-        font-size: 14px;
-        /* background-color: antiquewhite; */
-    }
-    .title_scroll {
-        font-size: 20px;
-    }
-
-    /* filters */
-    #filters{
-        max-width: 90%;
-    }
-    #form_secondary_filters {
-        flex-direction: column;
-    }
-    #form_secondary_filters sl-select {
-        width: 100%;
-    }
-    sl-button.filterbtn{
-        display: block;
-        --size: 12px;
-        margin-top: 0px;
-        margin-bottom: 10px;
-    }
-    .truncated_filter {
-        overflow: hidden;
-        height: 70px;
-    }
-    .filter_wrapper {
-        pointer-events: none;
-        position: relative;
-        width: 100%;
-        height: 35px;
-        bottom: 35px;
-        margin-bottom: -35px;
-        background: rgb(244,251,250);
-        background: linear-gradient(0deg, rgb(244, 251, 250) 10%, rgba(254, 254, 254, 0) 100%);
-    }
-    /* dashboard */
-    #listviz {
-        width: 90%;
-    }
-    #bubbleviz{
-        flex-direction: column;
-    }
-    div.bubbleside, #mapviz div.mapside, div.detailside {
-        width: 100%;
-        max-width: 100%;
-    }
-    div.detailside {
-        height: auto;
-    }
-
-    /* archive */
 
     /* contact credits footer */
     .contact_nav a {
@@ -111,7 +36,7 @@
 }
 @media (min-width: 769px) {
     /* type/layout/general */
-    p {
+    p, ul, li  {
         font-size: 20px;
     }
     p.sub {
@@ -130,17 +55,6 @@
         border-radius: 48px;
         padding: 14px;
     }
-    /* filters */
-    #filters {
-        max-width: 800px;
-    }
-    /* dashboard */
-
-    #listviz {
-        width: 100%;
-    }
-    /* archive */
-
     /* contact credits footer */
     .contact_nav a {
         border-radius: 48px;
@@ -179,42 +93,11 @@
     nav a {
         border-left: 0px;
     }
-    /* funds */
-    .fund_section{
-        flex-direction: column;
-        row-gap: 20px;
-    }
-    .fund_item {
-        padding: 10px;
-        border-radius: 8px;
-    }
-    .fund_item p {
-        font-size: 14px;
-    }
-    .fund_item > h3 {
-        width: 100%;
-    }
 }
 @media (min-width: 1101px) {
     /* intro and nav */
     div.hamburger {
         display: none;
-    }
-    /* funds */
-    .fund_section{
-        flex-direction: row;
-        column-gap: 20px;
-    }
-    .fund_item {
-        padding: 20px;
-        border-radius: 16px;
-        flex-basis: 25%;
-    }
-    .fund_item p {
-        font-size: 16px;
-    }
-    .fund_item > h3 {
-        width: 80%;
     }
 
 }
@@ -234,19 +117,6 @@
         margin-top: 10px;
     }
 
-    /* intro and nav */
-
-    /* scroll */
-
-    /* funds */
-
-    /* filters */
-
-    /* dashboard */
-
-    /* archive */
-
-    /* contact credits footer */
 }
 @media (min-width: 769px) and (max-width: 1100px) {
     /* type/layout/general */
