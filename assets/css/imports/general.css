@@ -36,3 +36,6 @@ sl-radio-group::part(form-control-input)	{
 sl-radio	{
   margin-right: 20px;
 }
+img {
+  width: 100%;
+}

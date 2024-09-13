@@ -6,7 +6,7 @@ order: 1
 search_engines: false
 ---
 
-<img style='width:100%' src='/assets/media/banner.jpg'>
+![alt text](/assets/media/banner.jpg)
 
 ## Kakuma and Kalobeyei Mapping Project Overview
 According to the UN Refugee Agency’s (UNHCR) 2023 Global Trends Report, approximately 22% of the 43 million refugees around the world live in camps — temporary facilities built to respond to specific emergencies. As the need for refugee housing grows, planning for refugee settlements has become more complex. To address this growing need, UNHCR is partnering with the tech sector to see how modern advances in artificial intelligence (AI) can be part of the solution.
