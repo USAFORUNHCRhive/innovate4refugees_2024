@@ -8,26 +8,28 @@ search_engines: false
 
 ![alt text](/assets/media/Innovate4Regufees Banner.png)
 
-## Kakuma and Kalobeyei Mapping Project Overview
-According to the UN Refugee Agency’s (UNHCR) 2023 Global Trends Report, approximately 22% of the 43 million refugees around the world live in camps — temporary facilities built to respond to specific emergencies. As the need for refugee housing grows, planning for refugee settlements has become more complex. To address this growing need, UNHCR is partnering with the tech sector to see how modern advances in artificial intelligence (AI) can be part of the solution.
+## Kakuma and Kalobeyei Mapping Project
 
-To demonstrate how AI can address some of the most pressing issues in the humanitarian sector, Microsoft began a program in 2020 called AI for Humanitarian Action. [The Hive](https://github.com/USAFORUNHCRhive), USA for UNHCR’s data science and innovation lab, supported this initiative by conducting research to better understand what kinds of high-impact problems could be addressed with AI. Solutions for refugee settlement planning was one of the ideas that emerged from the work.
+Using drone imagery and AI models trained to recognize key topographical features, we can create open, accessible and high resolution maps to help UNCHR field operations plan more accurately.
 
-## The Problem
-Humanitarian groups recognize that accurate and up-to-date maps are indispensable tools for enhancing the quality of life for communities in crisis. However, clear, accurate maps and aerial imagery of refugee settlements have not been easily available. Without access to maps, UNHCR field operations struggle to make informed decisions, plan for resource allocation and provide an improved standard of living for the residents of the camps.
+ 102 drone flights carried out in Kakuma and Kalobeyei captured 161K images of data. Mappers were trained to tag features such as tents, solar panels, latrines or light poles using an open-source tool called the HOT Task Manager. Once HOT’s mappers created the sample of features tagged, Microsoft AI for Good research scientists built 4 machine-learning models to automate the tagging for the other parts of the camp not tagged by mappers. The open-source code is available on GitHub for developers and civic technologists to use, including demonstrations for how to use these models:
 
-## The Solution
-Leverage advances in drone imagery to create open, accessible high resolution maps and use AI to help UNHCR field operations plan more accurately.
+<div style="display: flex; justify-content: space-between;">
 
-## The Project
-Over the course of the project, 102 drone flights, spanning 8.4K hectares, captured 161K images of data (near 3 terabytes). The images for Kakuma and Kalobeyei are available as part of HOT’s Open Aerial Map platform.
+  <div style="flex: 1; margin-right: 10px;">
+    <h3><a href="https://github.com/USAFORUNHCRhive/turkana-grid-mapping">Electrical Infrastructure Identification</a></h3>
+    <h3>Use using aerial imagery to detect electrical poles and segment power distribution lines</h3>
+    <img src="assets/media/electrical.png" alt="electrical mapping image" style="width:100%;">
+  </div>
 
-The higher resolution from drone imagery provides better data for AI models to achieve previously impossible levels of recognition of features on the ground such as tents, solar panels, latrines or even light poles. Mappers were trained to tag features in the images using an open-source tool called the HOT Task Manager that creates clear ways for both refugees in the camp and volunteers from around the world to work together. Over the course of several weeks, everyone worked to identify features within the camps including those listed above and even animal shelters, waste disposal areas, and community gathering spaces.
+  <div style="flex: 1;">
+    <h3><a href="https://github.com/USAFORUNHCRhive/turkana-camp-roof-mapping">Building & Solar Panel Identification</a></h3>
+    <h3>Use aerial imagery to detect buildings and solar panels, as well as classifiy the roof materials of buildings</h3>
+    <img src="assets/media/solar.png" alt="roof mapping image" style="width:100%;">
+  </div>
 
-Once HOT’s mappers created the sample of features tagged, Microsoft AI for Good research scientists built 4 machine-learning models to automate the tagging for the other parts of the camp not tagged by mappers. The open-source code is available on GitHub for developers and civic technologists to use . Participants of The Hive’s annual forum [#Innovate4Refugees](https://www.unrefugees.org/innovate4refugees/) during the UN General Assembly week in September 2024 will be shown ways to use these models.
-
-## The Repositories
-* Infrastructure repository [https://github.com/USAFORUNHCRhive/turkana-grid-mapping](https://github.com/USAFORUNHCRhive/turkana-grid-mapping)
-* Building repository [https://github.com/USAFORUNHCRhive/turkana-camp-roof-mapping](https://github.com/USAFORUNHCRhive/turkana-camp-roof-mapping)
+</div>
 
 [Learn more about this project](https://www.unrefugees.org/news/kakuma-and-kalobeyei-drone-imagery-and-machine-learning-for-better-planning-of-refugee-settlements/)
+
+[#Innovate4Refugees](https://www.unrefugees.org/innovate4refugees/)
