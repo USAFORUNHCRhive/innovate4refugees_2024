@@ -24,9 +24,9 @@ Using drone imagery and AI models trained to recognize key topographical feature
   <div style="flex: 1; margin-left: 20px;">
     <h3><a href="https://github.com/USAFORUNHCRhive/turkana-camp-roof-mapping">Building & Solar Panel Identification</a></h3>
     <h4>Use aerial imagery to detect buildings, solar panels and then classifiy the roof materials of buildings.</h4>
-    <img src="assets/media/solar.jpg" alt="roof mapping image" style="width:100%;">
+    <img src="assets/media/solar.jpg" alt="roof mapping image" style="width:95%;">
   </div>
 
 </div>
-
+<br>
 [Learn more about this project](https://www.unrefugees.org/news/kakuma-and-kalobeyei-drone-imagery-and-machine-learning-for-better-planning-of-refugee-settlements/) &nbsp; &nbsp; &nbsp; [#Innovate4Refugees](https://www.unrefugees.org/innovate4refugees/)
