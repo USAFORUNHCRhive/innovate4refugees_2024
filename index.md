@@ -20,7 +20,7 @@ Using drone imagery and AI models trained to recognize key topographical feature
 
   <div style="flex: 1; margin-right: 10px;">
     <h2><a href="https://github.com/USAFORUNHCRhive/turkana-grid-mapping">Electrical Infrastructure Identification</a></h2>
-    <h4>Use using aerial imagery to detect electrical poles and segment power distribution lines</h4>
+    <h4>Use aerial imagery to detect electrical poles and segment power distribution lines</h4>
     <img src="assets/media/electrical.jpg" alt="electrical mapping image" style="width:100%;">
   </div>
 
