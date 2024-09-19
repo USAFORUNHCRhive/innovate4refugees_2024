@@ -18,7 +18,7 @@ Using drone imagery and AI models trained to recognize key topographical feature
   <div style="flex: 1; margin-right: 20px;">
     <h3><a href="https://github.com/USAFORUNHCRhive/turkana-grid-mapping">Electrical Infrastructure Identification</a></h3>
     <h4>Use aerial imagery to detect electrical poles and segment power distribution. lines</h4>
-    <img src="assets/media/electrical.jpg" alt="electrical mapping image" style="width:100%;">
+    <img src="assets/media/electricalpole.jpg" alt="electrical mapping image" style="width:100%;">
   </div>
 
   <div style="flex: 1; margin-left: 20px;">
@@ -29,6 +29,4 @@ Using drone imagery and AI models trained to recognize key topographical feature
 
 </div>
 
-[Learn more about this project](https://www.unrefugees.org/news/kakuma-and-kalobeyei-drone-imagery-and-machine-learning-for-better-planning-of-refugee-settlements/)                     [#Innovate4Refugees](https://www.unrefugees.org/innovate4refugees/)
-
-
+[Learn more about this project](https://www.unrefugees.org/news/kakuma-and-kalobeyei-drone-imagery-and-machine-learning-for-better-planning-of-refugee-settlements/) &nbsp; &nbsp; &nbsp; [#Innovate4Refugees](https://www.unrefugees.org/innovate4refugees/)
