@@ -24,7 +24,7 @@ The open-source code is available on GitHub for developers and civic technologis
   <div style="flex: 1; margin-left: 20px;">
     <h3><a href="https://github.com/USAFORUNHCRhive/turkana-camp-roof-mapping">Building & Solar Panel Identification</a></h3>
     <h4>Use aerial imagery to detect buildings, solar panels and then classifiy the roof materials of buildings</h4>
-    <img src="assets/media/solar.jpg" alt="roof mapping image" style="width:101%;">
+    <img src="assets/media/solar.jpg" alt="roof mapping image" style="width:102%;">
   </div>
 
 </div>
