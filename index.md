@@ -10,6 +10,8 @@ search_engines: false
 
 ## Kakuma and Kalobeyei Mapping Project
 
+test pages from branch
+
 Using drone imagery and AI models trained to recognize key topographical features, we can create open, accessible and high resolution maps to help UNCHR field operations plan more accurately.
 
  102 drone flights carried out in Kakuma and Kalobeyei captured 161K images of data. Mappers were trained to tag features such as tents, solar panels, latrines or light poles using an open-source tool called the HOT Task Manager. Once HOT’s mappers created the sample of features tagged, Microsoft AI for Good research scientists built 4 machine-learning models to automate the tagging for the other parts of the camp not tagged by mappers. The open-source code is available on GitHub for developers and civic technologists to use, including demonstrations for how to use these models:
