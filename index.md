@@ -41,4 +41,4 @@ The higher resolution from drone imagery provides better data for AI models to a
 
 Once HOT’s mappers created the sample of features tagged, Microsoft AI for Good research scientists built 4 machine-learning models to automate the tagging for the other parts of the camp not tagged by mappers. The open-source code is available on GitHub for developers and civic technologists to use . Participants of The Hive’s annual forum [#Innovate4Refugees](https://www.unrefugees.org/innovate4refugees/) during the UN General Assembly week in September 2024 will be shown ways to use these models.
 
-[Learn more about this project](https://www.unrefugees.org/news/kakuma-and-kalobeyei-drone-imagery-and-machine-learning-for-better-planning-of-refugee-settlements/) &nbsp; &nbsp; &nbsp; [#Innovate4Refugees](https://www.unrefugees.org/innovate4refugees/)
+[Learn more about this project](https://www.unrefugees.org/news/kakuma-and-kalobeyei-drone-imagery-and-machine-learning-for-better-planning-of-refugee-settlements/)
