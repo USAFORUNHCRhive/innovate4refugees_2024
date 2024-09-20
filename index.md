@@ -23,7 +23,7 @@ search_engines: false
 
 </div>
 
-## Kakuma and Kalobeyei Mapping Project Overview
+## Overview: Using AI for Sustainable Settlements for Refugees
 According to the UN Refugee Agency’s (UNHCR) 2023 Global Trends Report, approximately 22% of the 43 million refugees around the world live in camps — temporary facilities built to respond to specific emergencies. As the need for refugee housing grows, planning for refugee settlements has become more complex. To address this growing need, UNHCR is partnering with the tech sector to see how modern advances in artificial intelligence (AI) can be part of the solution.
 
 To demonstrate how AI can address some of the most pressing issues in the humanitarian sector, Microsoft began a program in 2020 called AI for Humanitarian Action. [The Hive](https://github.com/USAFORUNHCRhive), USA for UNHCR’s data science and innovation lab, supported this initiative by conducting research to better understand what kinds of high-impact problems could be addressed with AI. Solutions for refugee settlement planning was one of the ideas that emerged from the work.
@@ -34,7 +34,7 @@ Humanitarian groups recognize that accurate and up-to-date maps are indispensabl
 ## The Solution
 Leverage advances in drone imagery to create open, accessible high resolution maps and use AI to help UNHCR field operations plan more accurately.
 
-## The Project
+## The Kakuma and Kalobeyei Mapping Project Project
 Over the course of the project, 102 drone flights, spanning 8.4K hectares, captured 161K images of data (near 3 terabytes). The images for Kakuma and Kalobeyei are available as part of HOT’s Open Aerial Map platform.
 
 The higher resolution from drone imagery provides better data for AI models to achieve previously impossible levels of recognition of features on the ground such as tents, solar panels, latrines or even light poles. Mappers were trained to tag features in the images using an open-source tool called the HOT Task Manager that creates clear ways for both refugees in the camp and volunteers from around the world to work together. Over the course of several weeks, everyone worked to identify features within the camps including those listed above and even animal shelters, waste disposal areas, and community gathering spaces.
