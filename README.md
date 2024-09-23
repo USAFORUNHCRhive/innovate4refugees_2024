@@ -24,7 +24,7 @@
 
 ![image](https://github.com/user-attachments/assets/b7c6250f-6724-424e-9fe5-c36a27c17bc3)
 
-# [Building & Solar Panel Identification](https://github.com/USAFORUNHCRhive/turkana-camp-roof-mapping))
+# [Building & Solar Panel Identification](https://github.com/USAFORUNHCRhive/turkana-camp-roof-mapping)
 
 ### To run demo follow the below steps:
 
