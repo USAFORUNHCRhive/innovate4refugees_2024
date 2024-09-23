@@ -46,7 +46,7 @@
 
  ![image](https://github.com/user-attachments/assets/7f6b7124-bf20-4a3d-b526-3ca0265e7f83)
 
-6) As an additional step, remove comments on 'pip install -e ../' as below, run this cell, then restart the notebook.
+6) As an additional step, in the second cell of the notebook remove comments on 'pip install -e ../' as below, run this cell, then restart the notebook.
 
  ![image](https://github.com/user-attachments/assets/6113d471-ea54-49f9-b25a-3ea06a192dae)
 
