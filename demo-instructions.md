@@ -3,8 +3,8 @@
 ### To run demo follow the below steps:
 
 1) From the main page of the turkana-grid-mapping repository, click the <> Code button, then the Codespaces tab, then select ··· and **New with options**.
-   
-   ![image](https://github.com/user-attachments/assets/c43288a7-c2a1-4610-b081-3f0251a05837)
+
+   <img src="[drawing.jpg](https://github.com/user-attachments/assets/c43288a7-c2a1-4610-b081-3f0251a05837)" alt="drawing" width="200"/>
    
 3) Create codespace with default settings except select **8-core** under Machine Type, and then **Create Codespace**.
 
