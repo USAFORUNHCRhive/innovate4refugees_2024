@@ -4,11 +4,11 @@
 
 1) From the main page of the turkana-grid-mapping repository, click the <> Code button, then the Codespaces tab, then select ··· and **New with options**.
 
-   <img src="[drawing.jpg](https://github.com/user-attachments/assets/c43288a7-c2a1-4610-b081-3f0251a05837)" alt="drawing" width="200"/>
+   <img src="https://github.com/user-attachments/assets/c43288a7-c2a1-4610-b081-3f0251a05837" alt="drawing" width="600"/>
    
 3) Create codespace with default settings except select **8-core** under Machine Type, and then **Create Codespace**.
 
-   ![image](https://github.com/user-attachments/assets/bab9f4e5-6e7a-4236-8a79-865d18ebeb03)
+   <img src="https://github.com/user-attachments/assets/bab9f4e5-6e7a-4236-8a79-865d18ebeb03" alt="drawing" width="600"/>
    
 4) A codespace development environment will open in browser, which this will take a few minutes to load.
 
