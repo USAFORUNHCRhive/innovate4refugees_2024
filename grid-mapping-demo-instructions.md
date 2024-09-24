@@ -27,6 +27,7 @@
 <br />
 
 5) Click **Select Kernel** in the top right of the screen, followed by **Python Environments** and then **venv**, which should be starred.
+   
    <img src="https://github.com/user-attachments/assets/7f6b7124-bf20-4a3d-b526-3ca0265e7f83" alt="drawing" style="width:400px;"/>
 <br />
    
