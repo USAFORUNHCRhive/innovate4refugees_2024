@@ -2,7 +2,7 @@
 
 [Click for repository](https://github.com/USAFORUNHCRhive/turkana-camp-roof-mapping)
 
-### To run demo follow the below steps:
+**To run demo follow the below steps:**
 
 1) To run demo you must have a Github account - if not already done so please send Github username to jonathan@unrefugees.org and accept invitation.
 
