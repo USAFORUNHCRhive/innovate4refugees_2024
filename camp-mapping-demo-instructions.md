@@ -5,6 +5,8 @@
 **To run demo follow the below steps:**
 
 1) To run demo you must have a Github account - if not already done so please send Github username to jonathan@unrefugees.org and accept invitation.
+<br />
+<br />
 
 2) From the main page of the turkana-camp-roof-mapping repository, click the <> Code button, then the Codespaces tab, then select ··· and **New with options**.
    
@@ -36,6 +38,7 @@
 7) As an additional step, in the second cell of the notebook remove comments on 'pip install -e ../' as below, run this cell, then restart the notebook.
 
    <img src="https://github.com/user-attachments/assets/6113d471-ea54-49f9-b25a-3ea06a192dae" alt="drawing" style="width:400px;"/>
+<br />
 <br />
 
 8) The notebook should now be ready to run and the text markdown will explain each step. We recommend running cells individually as below.
