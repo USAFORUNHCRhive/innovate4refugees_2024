@@ -16,7 +16,7 @@
 <br />
 <br />
 
-3) A codespace development environment will open in browser, which this will take a few minutes to load.
+3) A codespace development environment will open in browser, and will take a few minutes to fully load.
 <br />
 
 4) Once loaded, navigate to src > poles > demo and open **00-mapping-electrical-poles.ipynb**. Select "Open Anyway" when prompted with warning.
