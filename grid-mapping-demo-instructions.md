@@ -6,7 +6,7 @@
 
 1) From the main page of the turkana-grid-mapping repository, click the <> Code button, then the Codespaces tab, then select ··· and **New with options**.
    
-   <img src="https://github.com/user-attachments/assets/c43288a7-c2a1-4610-b081-3f0251a05837" alt="drawing" width="600"/>
+   <img src="https://github.com/user-attachments/assets/c43288a7-c2a1-4610-b081-3f0251a05837" alt="drawing" width="300"/>
 <br />
 <br />
 
