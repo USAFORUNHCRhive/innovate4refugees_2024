@@ -9,7 +9,7 @@ search_engines: false
 ![alt text](/assets/media/Innovate4Regufees Banner.png)
 
 ## Resources for Developers
-Are you looking for ways to use machine learning to detect features such as shelters, solar panels or lighting on the ground using aerial imagery? [The Hive](https://github.com/USAFORUNHCRhive), USA for UNHCR’s data science and innovation lab, invites you to use these open repositories so you do not have to start from scratch. Learn more about how these repositories were created for better shelter planning of people forced to flee their homes due to war, conflict or persecution. Let us know how you plan to use these repositories for your own purposes hive@unrefugees.org. 
+Are you looking for ways to use machine learning to detect features such as shelters, solar panels or lighting on the ground using aerial imagery? [The Hive](https://github.com/USAFORUNHCRhive), USA for UNHCR’s data science and innovation lab, invites you to use these open repositories so you do not have to start from scratch. Learn more about how these repositories were created for better shelter planning of people forced to flee their homes due to war, conflict or persecution (see below). Let us know how you plan to use these repositories for your own purposes hive@unrefugees.org. 
 
 <div style="display: flex; justify-content: space-between;">
 
