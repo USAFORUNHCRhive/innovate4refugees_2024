@@ -27,6 +27,7 @@
 
 5) Click **Select Kernel** in the top right of the screen, followed by **Python Environments** and then **venv**, which should be starred.
    <img src="https://github.com/user-attachments/assets/7f6b7124-bf20-4a3d-b526-3ca0265e7f83" alt="drawing" style="width:400px;"/>
+   
 6) The notebook should now be ready to run and the text markdown will explain each step. We recommend running cells individually as below.
 
    <img src="https://github.com/user-attachments/assets/b7c6250f-6724-424e-9fe5-c36a27c17bc3" alt="drawing" style="width:600px;"/>
