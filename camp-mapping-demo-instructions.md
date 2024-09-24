@@ -4,7 +4,7 @@
 
 ### To run demo follow the below steps:
 
-1) To run demo you must have a Github account - please send Github username to jonathan@unrefugees.org and accept invitation.
+1) To run demo you must have a Github account - if not already done so please send Github username to jonathan@unrefugees.org and accept invitation.
 
 2) From the main page of the turkana-camp-roof-mapping repository, click the <> Code button, then the Codespaces tab, then select ··· and **New with options**.
    
