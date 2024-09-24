@@ -2,7 +2,7 @@
 
 [Click for repository](https://github.com/USAFORUNHCRhive/turkana-grid-mapping)
 
-### To run demo follow the below steps:
+**To run demo follow the below steps:**
 
 1) From the main page of the turkana-grid-mapping repository, click the <> Code button, then the Codespaces tab, then select ··· and **New with options**.
    
