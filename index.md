@@ -14,8 +14,9 @@ Are you looking for ways to use machine learning to detect features such as shel
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1; margin-right: 20px;">
-    <h3><a href="https://github.com/USAFORUNHCRhive/turkana-grid-mapping">Electrical Infrastructure Identification</a></h3>
+    <h3>Electrical Infrastructure Identification</h3>
     <h4>Use aerial imagery to detect electrical poles and segment power distribution lines</h4>
+    <h4><a href="https://github.com/USAFORUNHCRhive/turkana-grid-mapping">Repository with demo</a>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://usaforunhcrhive.github.io/innovate4refugees_2024/grid-mapping-demo-instructions">Demo instructions</a></h4>
     <img src="assets/media/electricalpole.jpg" alt="electrical mapping image" style="width:100%;">
   </div>
 
