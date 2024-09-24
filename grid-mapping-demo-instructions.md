@@ -1,4 +1,6 @@
-# [Electrical Infrastructure Identification Demo](https://github.com/USAFORUNHCRhive/turkana-grid-mapping)
+# Electrical Infrastructure Identification Demo
+
+[Click for repository](https://github.com/USAFORUNHCRhive/turkana-grid-mapping)
 
 ### To run demo follow the below steps:
 
